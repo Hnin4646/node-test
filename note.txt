@@ -1,0 +1,24 @@
+npm install yin 3 myo install lo ya
+
+1. global (ko yae computer tae mar htae lite tae ta baw , server por tin yin ma par twar buu)
+2. dev (ko yae project tae win twar tar, server por tin yin ma par twar buu)
+3. dependencies (project tae mar shit mar, server por tin yin ma par buu)
+
+*****dependencies ka har bae server por mar par twar mar
+
+npm install express ka
+---------------------- 
+
+=> node run pote a twat server lo tae 
+   a dar kyut express server ko install lote ya 
+
+dev => npm install
+       npm i
+
+global => npm install --global nodemon
+          npm i -g nodemon
+
+dependencies => npm i -D multer(photo and video twe upload tin chin yin thone ya tae package)
+                npm install --dev multer    
+
+dependencies ka kaung ko uninstall lote chinn yin => "install" nay yar mar "uninstall" change lite yone bae       
