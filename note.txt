@@ -1,4 +1,5 @@
 npm install yin 3 myo install lo ya
+-----------------------------------
 
 1. global (ko yae computer tae mar htae lite tae ta baw , server por tin yin ma par twar buu)
 2. dev (ko yae project tae win twar tar, server por tin yin ma par twar buu)
@@ -21,4 +22,24 @@ global => npm install --global nodemon
 dependencies => npm i -D multer(photo and video twe upload tin chin yin thone ya tae package)
                 npm install --dev multer    
 
-dependencies ka kaung ko uninstall lote chinn yin => "install" nay yar mar "uninstall" change lite yone bae       
+dependencies ka kaung ko uninstall lote chinn yin => "install" nay yar mar "uninstall" change lite yone bae 
+
+
+=> .gitignore file tae mar ka ko server paw ma tin chin tae file twe ko htae lo ya
+
+=> .env so tae file lae thone chin lo "npm i dotenv" package ko htae pay ya tar 
+
+=> express ko index.js mar thone ya mar
+   thone nee ko npmjs.com mar twar shar pee code ko index.js mar copy paste lote 
+
+***** "node index" commend so yin ta kar pyin tai ta kar run ya
+***** "nodemon index" commend so yin ta kar run pii north ta kar change pii save lite tar nae  ya tae
+
+package.json
+------------
+npm start (package.json ka scripts mar start so pi pyin htar tar)
+npm test
+ 
+other (start and test ka lwae yin between mar "run" kan pay ya dae)
+------
+npm run dev
